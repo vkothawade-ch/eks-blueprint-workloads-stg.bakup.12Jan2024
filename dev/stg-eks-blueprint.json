@@ -1,6 +1,6 @@
 {
     "name": "eks-stg-01",
-    "env": "dev",
+    "env": "stg",
     "spec": {
         "variables" : {
             "region" : "us-west-2",
