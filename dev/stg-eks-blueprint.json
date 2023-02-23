@@ -1,5 +1,5 @@
 {
-    "name": "eks-stg-test-02",
+    "name": "eks-stg-test-feb23",
     "env": "stg",
     "spec": {
         "variables" : {
